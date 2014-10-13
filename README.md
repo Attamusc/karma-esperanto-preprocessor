@@ -1,4 +1,4 @@
-# > karma-esperanto-preprocessor
+# karma-esperanto-preprocessor
 
 > Preprocessor to compile ES6 modules using [esperanto]().
 

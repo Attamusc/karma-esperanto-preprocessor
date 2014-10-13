@@ -1,0 +1,32 @@
+{
+  "name": "karma-esperanto-preprocessor",
+  "version": "0.0.0",
+  "description": "Preprocessor to compile ES6 modules using esperanto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Attamusc/karma-esperanto-preprocessor.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "es6",
+    "module",
+    "esperanto"
+  ],
+  "peerDependencies": {
+    "karma": "^0.12"
+  },
+  "dependencies": {
+    "esperanto": "^0.3.12"
+  },
+  "author": "Sean Dunn <sean@attamusc.com> (http://www.dunns.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Attamusc/karma-esperanto-preprocessor/issues"
+  },
+  "homepage": "https://github.com/Attamusc/karma-esperanto-preprocessor"
+}
